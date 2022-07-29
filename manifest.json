@@ -1,0 +1,17 @@
+{
+    "name": "Flipper Maker",
+    "short_name": "Flipper Maker",
+    "theme_color": "#fd7e14",
+    "background_color": "#ff8e2b",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "index.html",
+    "description": "Generate Flipper Files!",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "/flipperLogo.jpg",
+            "sizes": "400x400"
+        }
+    ]
+}
