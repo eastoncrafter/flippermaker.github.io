@@ -10,7 +10,7 @@
     "orientation": "any",
     "icons": [
         {
-            "src": "/flipperLogo.jpg",
+            "src": "/img/qFlipper_iOS_512px.png",
             "sizes": "400x400"
         }
     ]
