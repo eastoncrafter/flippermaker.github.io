@@ -54,6 +54,13 @@
   <br />
   <div class="modal fade" id="generateModal" tabindex="-1" aria-labelledby="generateModalLabel" aria-hidden="true"></div>
   <footer id="footerBar" class="footer mt-auto py-3 bg-light"></footer>
+  <script>
+    if (!navigator.serviceWorker.controller) {
+        navigator.serviceWorker.register("/serviceWorker.js").then(function(reg) {
+            console.log("Service worker has been registered for scope: " + reg.scope);
+        });
+    }
+   </script>
 </body>
 
 <script src="https://moment.github.io/luxon/global/luxon.min.js"></script>
