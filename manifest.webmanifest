@@ -5,12 +5,12 @@
     "background_color": "#ff8e2b",
     "display": "fullscreen",
     "scope": "./",
-    "start_url": "/",
+    "start_url": "./",
     "description": "Generate Flipper Files!",
     "orientation": "any",
     "icons": [
         {
-            "src": "/img/qFlipper_iOS_512px.png",
+            "src": "./img/qFlipper_iOS_512px.png",
             "sizes": "512x512"
         }
     ]
