@@ -5,7 +5,7 @@
     "background_color": "#ff8e2b",
     "display": "fullscreen",
     "scope": "/",
-    "start_url": "/index.html",
+    "start_url": "/",
     "description": "Generate Flipper Files!",
     "orientation": "any",
     "icons": [
